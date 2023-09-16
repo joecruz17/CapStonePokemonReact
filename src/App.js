@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from 'react';
-import PokemonList from './PokemonList';
+import PokemonList from './PokemonList/PokemonList';
 import axios from 'axios'
 import Pagination from './Pagination';
 
