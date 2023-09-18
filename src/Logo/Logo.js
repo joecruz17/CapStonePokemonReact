@@ -4,7 +4,7 @@ import './TitleLogo.css'; // Import a CSS file for styling (you can create this 
 function TitleLogo() {
   return (
     <div className="logo">
-      <img href="https://i.imgur.com/siKECBs.png" alt="Logo" />
+      <img src="https://i.imgur.com/siKECBs.png" alt="Logo" />
       <h1>Pokemon</h1>
     </div>
   );
